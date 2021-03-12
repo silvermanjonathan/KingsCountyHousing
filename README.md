@@ -14,6 +14,5 @@ for the bizarre, as my root mean square error was within the acceptable range.
 While improving my model, I learned that there is a sweet spot to recursive feature selection. My root mean square error would swing from 
 over 2 million to under 200 thousand just because I selected different values for the skips and cv parameters. 
 
-This github repo contains my notebook with the entire modeling process therein, and two csv files: the Kings County Housing Data, 
+This github repo contains my notebook with the entire modeling process therein, and three csv files: the Kings County Housing Data, the holdout data, 
 and Seattle income data. 
-
